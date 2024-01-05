@@ -7,4 +7,4 @@
     ``` npm init ```
        ``` npm i express body-parser moment  ```
 
-3. node server.js 
+3. run ```node server.js``` 
