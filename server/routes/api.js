@@ -57,7 +57,7 @@ router.put('/update', function (req, res) {
 
 router.get('/expenses/:group/:total', function (req, res) {
     const group  = req.params.group;
-    const total  = req.params.total;
+    const total  = req.query;
 
     if (total) {
         Expense.aggregate([
