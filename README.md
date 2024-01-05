@@ -4,7 +4,7 @@
  # Getting Started
 1. Clone the repository.
 2. Install dependencies using
-    ``` npm init
-        npm i express body-parser moment ```
+    ``` npm init ```
+       ``` npm i express body-parser moment  ```
 
 3. node server.js 
